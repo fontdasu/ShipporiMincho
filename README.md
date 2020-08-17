@@ -25,22 +25,31 @@ ver3.00では、字形のブラッシュアップ、ファミリー化（Rウエ
 <h2>収録文字</h2>
 ・基本ASCII＋Laten-1文字<br />
 ・ひらがな、カタカナ、全角英数、全角記号、縦書き用文字、ひらがなの異体字<br />
-・漢字はSILライセンスの源流明朝のものを加工して収録
+・漢字はSILライセンスの<a href="https://github.com/ButTaiwan/genryu-font" target="_blank">源流明朝</a>のものを加工して収録
 
+<h2>組見本</h2>
+<img src="./sample２.png" />
+<a href="./sample２.pdf" target="_blank">ネーム組見本PDFファイル</a><br />
+
+※このネーム組見本は、<a href="http://works014.hatenablog.com/" target="_blank">大阪の組版屋 はあどわあく</a>の大石十三夫さんに。作っていただきました。<br />
 
 <h2>できないこと</h2>
-・作成した派生フォントの名前に「しっぽり明朝」の文字を含めること。<br />
-・「SIL Open Font License Version 1.1」以外のライセンスで再配布すること。<br />
-・フォントファイル自体を単体で販売すること。<br />
+・作成した派生フォントの名前に「しっぽり明朝」の文字を含めることはできません。<br />
+・「SIL Open Font License Version 1.1」以外のライセンスで再配布することはできません。<br />
+・フォントファイル自体を単体で販売することはできません。<br />
 
 
 <h2>その他</h2>
 ご不明なことやお気付きの点がありましたら作者のメール：fontdasu@gmail.com
 または<a href="https://twitter.com/fontdasu" target="_blank">作者Twitter</a>へお問い合わせください。<br />
 
+<h2>ソースコード</h2>
+Glyphs編集ファイルが容量が大きすぎ、GitHubにコミットできませんでしたので以下に置いています。<br />
+https://www.dropbox.com/sh/ui8y9q1cwe1zgf5/AAC55X71av_rXlOFaXmiCgZMa?dl=0
+
 
 <h2>更新履歴</h2>
-Ver 3.000 (2020.6.30)<br />
+Ver 3.000 (2020.8.17)<br />
 Glyphsで1から作り直しました。グリフのパスを全て見直しました。仮名の異体字を追加。約物を追加。ウエイトをM、D、B、Eの４種類追加。基本ASCII＋Laten-1文字を追加。漢字はSILライセンスの源流明朝のものを加工して収録しました。<br /><br />
 
 Ver 2.121 (2019.1.2４)<br />
