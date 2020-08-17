@@ -28,8 +28,8 @@ ver3.00では、字形のブラッシュアップ、ファミリー化（Rウエ
 ・漢字はSILライセンスの<a href="https://github.com/ButTaiwan/genryu-font" target="_blank">源流明朝</a>のものを加工して収録
 
 <h2>組見本</h2>
-<img src="./sample２.png" />
-<a href="./sample２.pdf" target="_blank">ネーム組見本PDFファイル</a><br />
+<img src="./sample2.png" />
+<a href="./sample2.pdf" target="_blank">ネーム組見本PDFファイル</a><br />
 
 ※このネーム組見本は、<a href="http://works014.hatenablog.com/" target="_blank">大阪の組版屋 はあどわあく</a>の大石十三夫さんに。作っていただきました。<br />
 
