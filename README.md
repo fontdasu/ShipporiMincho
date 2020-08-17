@@ -31,7 +31,7 @@ ver3.00では、字形のブラッシュアップ、ファミリー化（Rウエ
 <img src="./sample2.png" />
 <a href="./sample2.pdf" target="_blank">ネーム組見本PDFファイル</a><br />
 
-※このネーム組見本は、<a href="http://works014.hatenablog.com/" target="_blank">大阪の組版屋 はあどわあく</a>の大石十三夫さんに。作っていただきました。<br />
+※この組見本は、<a href="http://works014.hatenablog.com/" target="_blank">大阪の組版屋 はあどわあく</a>の大石十三夫さんに、作っていただきました。<br />
 
 <h2>できないこと</h2>
 ・作成した派生フォントの名前に「しっぽり明朝」の文字を含めることはできません。<br />
