@@ -29,10 +29,8 @@ ver3.00では、字形のブラッシュアップ、ファミリー化（Rウエ
 
 <h2>組見本</h2>
 <img src="./sample2.png" />
-<a href="./sample2.pdf" target="_blank">組見本PDFファイル</a><br />
 
-※この組見本は、<a href="http://works014.hatenablog.com/" target="_blank">大阪の組版屋 はあどわあく</a>の大石十三夫さんに作っていただきました。<br />
-
+※この組見本は、<a href="http://works014.hatenablog.com/" target="_blank">大阪の組版屋 はあどわあく</a>の大石十三夫さんに作っていただきました。（<a href="./sample2.pdf" target="_blank">組見本PDFファイル</a>）<br />
 <h2>できないこと</h2>
 ・作成した派生フォントの名前に「しっぽり明朝」の文字を含めることはできません。<br />
 ・「SIL Open Font License Version 1.1」以外のライセンスで再配布することはできません。<br />
