@@ -25,7 +25,7 @@ ver3.00では、字形のブラッシュアップ、ファミリー化（Rウエ
 <h2>収録文字</h2>
 ・基本ASCII＋Laten-1文字<br />
 ・ひらがな、カタカナ、全角英数、全角記号、縦書き用文字、ひらがなの異体字<br />
-・漢字のみSILライセンスの<a href="https://github.com/ButTaiwan/genryu-font" target="_blank">源流明朝</a>のものを加工して収録
+・漢字のみSILライセンスの<a href="https://github.com/ButTaiwan/genryu-font" target="_blank">源流明朝</a>のものを作者であるbutさんからOTFファイル（非公開）形式で提供していただき、それを少し加工して収録
 
 <h2>組見本</h2>
 <img src="./sample2.png" />
