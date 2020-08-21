@@ -41,10 +41,6 @@ ver3.00では、字形のブラッシュアップ、ファミリー化（Rウエ
 ご不明なことやお気付きの点がありましたら作者のメール：fontdasu@gmail.com
 または<a href="https://twitter.com/fontdasu" target="_blank">作者Twitter</a>へお問い合わせください。<br />
 
-<h2>ソースコード</h2>
-Glyphs編集ファイルが容量が大きすぎ、GitHubにコミットできませんでしたので以下に置いています。<br />
-https://www.dropbox.com/sh/ui8y9q1cwe1zgf5/AAC55X71av_rXlOFaXmiCgZMa?dl=0
-
 
 <h2>更新履歴</h2>
 Ver 3.000 (2020.8.17)<br />
