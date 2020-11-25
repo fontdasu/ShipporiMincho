@@ -12,7 +12,7 @@ ver3.00では、字形のブラッシュアップ、ファミリー化（Rウエ
 漢字のみSILライセンスの<a href="https://github.com/ButTaiwan/genryu-font" target="_blank">源流明朝</a>（同じくSILライセンスの源ノ明朝の派生フォント。）をベースに、はらいの先端などに丸を加える変更をしています。<br />
 しっぽり明朝B1という、文字のエッジがさらにボケているヴァージョンも制作しています。<br />
 
-<img src="./sample3.png" />
+<img src="./sample3.jpg" />
 
 <h2>濁点付き仮名を収録</h2>
 
