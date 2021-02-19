@@ -36,8 +36,7 @@ OTF版フォントファイルは、FONTDASUのサイト（ https://fontdasu.com
 ・このフォントを使用し、派生フォントを作ることもできます。<br />
 　ただし、配布の際はSIL Open Font Licenseに基づいてリリースする必要があります。<br />
 
-・SILライセンスについて詳しくはライセンス原文日本語サイト（ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1 ）
-　または同梱の「OFL.txt」（英語）をご確認ください。<br />
+・SILライセンスについて詳しくはライセンス原文日本語サイト（ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1 ）または同梱の「OFL.txt」（英語）をご確認ください。<br />
 
 ・予約されたフォント名は日本語表記で「しっぽり明朝」、アルファベット表記で「Shippori Micho」とします。（しっぽり明朝の名称を使った派生フォントを制作されたい方はお問い合わせください。）<br />
 
