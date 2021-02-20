@@ -26,7 +26,6 @@ Wordや一太郎をお使いの方はTTF版フォントファイル、Illustrato
 TTF版フォントファイルはこのページもしくはGoogle Fontsでダウンロードできます。<br />
 OTF版フォントファイルは、FONTDASUのサイト（ https://fontdasu.com/shippori-mincho/ ）でダウンロードできます。<br />
 　
-
 <h2>SIL Open Font License Version 1.1ライセンスについて</h2>
 
 ・個人利用・商用利用にかかわらずどなたでも無料でお使いいただけます。<br />
