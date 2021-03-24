@@ -37,8 +37,6 @@ OTF版フォントファイルは、FONTDASUのサイト（ https://fontdasu.com
 
 ・SILライセンスについて詳しくはライセンス原文日本語サイト（ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1 ）または同梱の「OFL.txt」（英語）をご確認ください。<br />
 
-・予約されたフォント名は日本語表記で「しっぽり明朝」、アルファベット表記で「Shippori Mincho」とします。（しっぽり明朝の名称を使った派生フォントを制作されたい方はお問い合わせください。）<br />
-
 <h2>収録文字</h2>
 ・基本ASCII＋Laten-1文字<br />
 ・ひらがな、カタカナ、全角英数、全角記号、縦書き用文字、ひらがなの異体字<br />
