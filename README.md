@@ -35,7 +35,7 @@ OTF版フォントファイルは、FONTDASUのサイト（ https://fontdasu.com
 ・このフォントを使用し、派生フォントを作ることもできます。<br />
 　ただし、配布の際はSIL Open Font Licenseに基づいてリリースする必要があります。<br />
 
-・SILライセンスについて詳しくはライセンス原文日本語サイト（ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1 ）または同梱の「OFL.txt」（英語）をご確認ください。<br />
+・SILライセンスについて詳しくはライセンス原文日本語サイト（ https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html ）または同梱の「OFL.txt」（英語）をご確認ください。<br />
 
 <h2>収録文字</h2>
 ・基本ASCII＋Laten-1文字<br />
